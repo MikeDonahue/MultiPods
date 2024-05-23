@@ -1,5 +1,7 @@
 import PackageDescription
 
+// swift-tools-version:5.10
+
 let package = Package(
     name: "FinalPack",
     platforms: [
